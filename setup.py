@@ -8,7 +8,7 @@ except IOError:
 
 setup(
     name="common-bot",
-    version="1.0.0",
+    version="1.0.1",
     description="Common package for selenium bots",
     license="MIT",
     author="code-squad",
